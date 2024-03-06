@@ -28,4 +28,6 @@ Pertanyaan :
 
 Asumsi : Penentuan nilai chance of rate 0.8 (80%) ke atas untuk pendaftar dengan kemungkinan paling besar diterima. 
 
+Acknowledgements : (Data) Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019
+
 
